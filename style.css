@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+body{
+    background: #ffffffcb;
+    font-family: sans-serif;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 1.2px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 50px;
+    padding-right: 40px;
+    text-align: justify;
+}
+.candy{
+    width: 100%;
+    height: 15rem;
+    margin-left: 0;
+    margin-right: 0;
+    object-fit: cover;
+}
+
+#main{
+    text-align: center;
+    font-size: 55px;
+    font-family: sans-serif;
+    line-height: 40px;
+    letter-spacing: 8px;
+    margin: 2rem;
+
+}
+.mainTopic{
+    font-family: sans-serif;
+    font-weight: bold;
+    background: rgba(189, 157, 189, 0.753);
+    margin: 25px;
+}
+
+.iceScream{
+    width: 5.4%;
+    float: left;
+    margin: 1rem;
+    border-radius: 50%;
+}
+.introduction h1{
+    color: #ce14be;
+    background: hsl(210, 2%, 66%);
+}
+
+.additionalTopic h1{
+    background: hsl(210, 2%, 66%);
+    color: #ce14be;
+}
+
+.additionalTopic h2{
+    background: yellow;
+}
+.sweetCake{
+    width: 18.5%;
+    float: right;
+    margin-left: 2rem;
+    margin-top: .3rem;
+    margin-right: 0;
+    border: 5px solid #1edfdf;
+    border-radius: 15px;
+}
+
+.gummy{
+    width: 23.5%;
+    float: left;
+    margin-top: .8rem;
+    margin-right: 2rem;
+    border-radius: 50%;
+    border: 3px dashed cornflowerblue;
+}
+.sweet h1{
+    color: #ce14be;
+    background: hsl(210, 2%, 66%); 
+}
+
+
+.links ul{
+    text-decoration: none;
+    background-color: #16e9de;
+    margin: 0;
+}   
+ 
+.links ul li{
+    list-style-type: circle;
+    margin-left: 80px;
+    padding-top: 0;
+    padding-bottom: 0;
+}   
+    
+
+.a{
+    color: #04eaf1f1;
+    font-size: bold;
+}
+.contactPage{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    padding-top: 0;
+    padding-bottom: 0;
+    line-height: 1px;
+}
+
+.contactHeader{
+    width: 100%;
+    height: 15rem;
+    object-fit: cover;
+}
+.contact{
+   margin-top: 2em;
+   padding-top: 0;
+   background: rgba(136, 240, 231, 0.452);
+   
+}
+
+.contact ul{
+    margin-left: 80px;
+}
+.contact li{
+    list-style-type: circle;
+    
+}
+h3 {
+   margin-top: 2em; 
+}
+.move {
+    
+    margin-top: .7em;
+    
+}
